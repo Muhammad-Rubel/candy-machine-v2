@@ -12,7 +12,7 @@
   import { LAMPORTS_PER_SOL } from "@solana/web3.js";
 
   const txTimeout = 30000;
-  const cluster = import.meta.env.VITE_APP_SOLANA_NETWORK.toString();
+  // const cluster = import.meta.env.VITE_APP_SOLANA_NETWORK.toString();
 
   $: date = new Date($candyMachineState?.state.goLiveDate?.toNumber() * 1000);
   $: whitelistPrice =
@@ -85,10 +85,10 @@
     // so we update this variables manually upon successful completion
     $candyMachineState.state.itemsRedeemed += 1;
     mintSuccessful = true;
-    $userState.solanaExplorerLink =
-      cluster == "devnet"
-        ? `https://explorer.solana.com/address/${mintPublicKey}?cluster=devnet`
-        : `https://explorer.solana.com/address/${mintPublicKey}`;
+    // $userState.solanaExplorerLink =
+      // cluster == "devnet"
+      //   ? `https://explorer.solana.com/address/${mintPublicKey}?cluster=devnet`
+      //   : `https://explorer.solana.com/address/${mintPublicKey}`;
     throwConfetti();
   }
 
