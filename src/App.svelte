@@ -1,4 +1,5 @@
 <script lang="ts">
+  import Feature from "./components/Feature.svelte";
   import Header from "./components/Header.svelte";
   import Hero from "./components/Hero.svelte";
   import Nft from "./components/Nft.svelte";
@@ -12,6 +13,7 @@
       <main>
         <Nft />
         <Hero />
+        <Feature />
       </main>
     </div>
   </div>
