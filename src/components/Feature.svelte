@@ -18,7 +18,7 @@
   ];
 </script>
 
-<div
+<section
   class="pt-16 space-y-4 md:flex justify-between items-start md:space-y-0 md:space-x-8"
 >
   {#each items as item}
@@ -29,4 +29,4 @@
       </p>
     </div>
   {/each}
-</div>
+</section>

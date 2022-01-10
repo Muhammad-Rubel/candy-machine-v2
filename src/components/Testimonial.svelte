@@ -17,7 +17,7 @@
   ];
 </script>
 
-<div class="mt-20 md:mt-28">
+<section class="mt-20 md:mt-28">
   <h2 class="text-xl md:text-2xl font-bold text-center tracking-wide">
     On the record
   </h2>
@@ -31,4 +31,4 @@
       </div>
     {/each}
   </div>
-</div>
+</section>

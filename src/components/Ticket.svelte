@@ -1,6 +1,6 @@
 <script lang="ts"></script>
 
-<div class="mt-20 md:mt-28">
+<section class="mt-20 md:mt-28">
   <h2 class="mb-8 text-xl md:text-2xl text-center">Tickets start at $950.</h2>
 
   <div>
@@ -14,4 +14,4 @@
       Tickets available on Eventbrite.
     </p>
   </div>
-</div>
+</section>

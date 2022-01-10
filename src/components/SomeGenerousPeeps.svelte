@@ -8,7 +8,7 @@
   ];
 </script>
 
-<div class="mt-20 md:mt-28">
+<section class="mt-20 md:mt-28">
   <h2 class="text-xl md:text-2xl font-bold text-center tracking-wide">
     Some generous peeps
   </h2>
@@ -17,4 +17,4 @@
       <img src={item} alt="" class="m-[.8rem] {i === 2 ? 'h-10' : 'h-12'}" />
     {/each}
   </div>
-</div>
+</section>

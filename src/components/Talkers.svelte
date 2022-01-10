@@ -27,7 +27,7 @@
   ];
 </script>
 
-<div class="mt-20 md:mt-28">
+<section class="mt-20 md:mt-28">
   <h2 class="text-xl font-bold text-center md:text-2xl">The talkers</h2>
 
   <div
@@ -40,4 +40,4 @@
       </div>
     {/each}
   </div>
-</div>
+</section>
