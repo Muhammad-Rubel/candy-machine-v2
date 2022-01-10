@@ -3,6 +3,7 @@
   import Header from "./components/Header.svelte";
   import Hero from "./components/Hero.svelte";
   import Nft from "./components/Nft.svelte";
+  import SomeGenerousPeeps from "./components/SomeGenerousPeeps.svelte";
   import Talkers from "./components/Talkers.svelte";
 </script>
 
@@ -16,6 +17,7 @@
         <Hero />
         <Feature />
         <Talkers />
+        <SomeGenerousPeeps />
       </main>
     </div>
   </div>

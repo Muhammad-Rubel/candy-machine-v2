@@ -30,7 +30,7 @@
 <div class="mt-20 md:mt-28">
   <h2 class=" text-2xl font-bold text-center tracking-wide">The Talkers</h2>
   <div
-    class="mt-8 space-y-7 md:space-y-0 md:grid grid-cols-6 md:gap-x-12 md:mt-12 xl:gap-x-10"
+    class="mt-8 space-y-7 md:space-y-0 md:grid grid-cols-6 md:gap-x-12 md:mt-10 xl:gap-x-10"
   >
     {#each items as item}
       <div class="w-full">
