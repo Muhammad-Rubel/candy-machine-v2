@@ -1,10 +1,10 @@
 <script lang="ts">
   const items = [
-    "/public/company-logos/stripe.svg",
-    "/public/company-logos/segment.svg",
-    "/public/company-logos/newrelic.svg",
-    "/public/company-logos/drift.svg",
-    "/public/company-logos/zopim.svg",
+    "/company-logos/stripe.svg",
+    "/company-logos/segment.svg",
+    "/company-logos/newrelic.svg",
+    "/company-logos/drift.svg",
+    "/company-logos/zopim.svg",
   ];
 </script>
 

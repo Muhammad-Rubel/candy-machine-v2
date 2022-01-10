@@ -3,22 +3,22 @@
     {
       title: "Twitter",
       link: "#",
-      image: "/public/social-media-links/twitter.svg",
+      image: "/social-media-links/twitter.svg",
     },
     {
       title: "Facebook",
       link: "#",
-      image: "/public/social-media-links/facebook.svg",
+      image: "/social-media-links/facebook.svg",
     },
     {
       title: "Instagram",
       link: "#",
-      image: "/public/social-media-links/instagram.svg",
+      image: "/social-media-links/instagram.svg",
     },
     {
       title: "Youtube",
       link: "#",
-      image: "/public/social-media-links/youtube.svg",
+      image: "/social-media-links/youtube.svg",
     },
   ];
 </script>

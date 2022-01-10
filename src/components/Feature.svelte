@@ -1,17 +1,17 @@
 <script lang="ts">
   const items = [
     {
-      icon: "/public/feature-icons/bucket.svg",
+      icon: "/feature-icons/bucket.svg",
       details:
         "Equidem soleo etiam quod uno Graeci, si aliter non possum idem pluribus.",
     },
     {
-      icon: "/public/feature-icons/flask.svg",
+      icon: "/feature-icons/flask.svg",
       details:
         "Nonne videmus quanta perturbatio rerum omnium consequatur quanta.",
     },
     {
-      icon: "/public/feature-icons/aircraft.svg",
+      icon: "/feature-icons/aircraft.svg",
       details:
         "Hoc enim constituto in philosophia constituta sunt omnia aliter possum.",
     },

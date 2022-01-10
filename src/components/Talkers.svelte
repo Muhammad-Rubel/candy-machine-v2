@@ -2,27 +2,27 @@
   const items = [
     {
       name: "Alyssa Long",
-      image: "/public/talkers/woman1.jpg",
+      image: "/talkers/woman1.jpg",
     },
     {
       name: "Jonathan Foster",
-      image: "/public/talkers/man1.jpg",
+      image: "/talkers/man1.jpg",
     },
     {
       name: "Kiara Taylor",
-      image: "/public/talkers/woman2.jpg",
+      image: "/talkers/woman2.jpg",
     },
     {
       name: "Elijah Rhodes",
-      image: "/public/talkers/man2.jpg",
+      image: "/talkers/man2.jpg",
     },
     {
       name: "Anita Gonzalez",
-      image: "/public/talkers/woman3.jpg",
+      image: "/talkers/woman3.jpg",
     },
     {
       name: "Adrian Sosa",
-      image: "/public/talkers/man3.jpg",
+      image: "/talkers/man3.jpg",
     },
   ];
 </script>
