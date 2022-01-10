@@ -2,7 +2,7 @@
   import { fade } from "svelte/transition";
 
   const carouselPhotos = [
-    "/public/hero-image-one.jpg",
+    "/hero-image-one.jpg",
     // "/public/hero-image-one.jpg",
     // "/public/hero-image-one.jpg",
     "https://picsum.photos/300/200?random=2",
