@@ -20,6 +20,11 @@
       link: "#",
       image: "/social-media-links/youtube.svg",
     },
+    {
+      title: "Discord",
+      link: "#",
+      image: "/social-media-links/discord.svg",
+    },
   ];
 </script>
 
