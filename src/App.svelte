@@ -13,7 +13,7 @@
 </script>
 
 <div class="page-border min-h-screen">
-  <div class="w-full bg-white h-full ">
+  <div class="w-full bg-white h-full">
     <div class="max-w-[1100px] mx-auto w-[90%]">
       <Header />
 

@@ -23,7 +23,7 @@
   ];
 </script>
 
-<footer class="mt-14 pb-10">
+<footer class="mt-14 md:mt-24 pb-10">
   <div
     class="space-y-4 md:space-y-0 md:flex justify-center items-center md:space-x-6"
   >

@@ -28,14 +28,15 @@
 </script>
 
 <div class="mt-20 md:mt-28">
-  <h2 class=" text-2xl font-bold text-center tracking-wide">The Talkers</h2>
+  <h2 class="text-xl font-bold text-center md:text-2xl">The talkers</h2>
+
   <div
     class="mt-8 space-y-7 md:space-y-0 md:grid grid-cols-6 md:gap-x-12 md:mt-10 xl:gap-x-10"
   >
     {#each items as item}
       <div class="w-full">
         <img src={item.image} alt="" />
-        <p class="text-xs mt-3">{item.name}</p>
+        <p class="text-sm mt-3 text-center">{item.name}</p>
       </div>
     {/each}
   </div>

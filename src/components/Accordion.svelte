@@ -53,7 +53,7 @@
         </h1>
       </div>
       {#if expandedItem === i}
-        <p transition:slide class="text-left px-4">{item.details}</p>
+        <p transition:slide class="text-left px-4 py-2 pb-4">{item.details}</p>
       {/if}
     {/each}
   </div>

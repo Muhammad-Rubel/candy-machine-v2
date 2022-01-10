@@ -9,7 +9,7 @@
 </script>
 
 <div class="mt-20 md:mt-28">
-  <h2 class=" text-2xl font-bold text-center tracking-wide">
+  <h2 class="text-xl md:text-2xl font-bold text-center tracking-wide">
     Some generous peeps
   </h2>
   <div class="mt-8 flex flex-wrap justify-center items-center md:mt-10">

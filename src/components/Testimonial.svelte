@@ -18,14 +18,16 @@
 </script>
 
 <div class="mt-20 md:mt-28">
-  <h2 class=" text-2xl font-bold text-center tracking-wide">On the record</h2>
+  <h2 class="text-xl md:text-2xl font-bold text-center tracking-wide">
+    On the record
+  </h2>
   <div
     class="mt-8 space-y-6 md:space-y-0 md:grid grid-cols-3 md:gap-x-12 md:mt-10 xl:gap-x-10"
   >
     {#each items as item}
       <div class="w-full">
-        <p class="text-left tracking-wide">{item.details}</p>
-        <p class="font-bold text-left tracking-wide">> {item.name}</p>
+        <p class="text-left ">{item.details}</p>
+        <p class="font-bold text-left mt-1">> {item.name}</p>
       </div>
     {/each}
   </div>
