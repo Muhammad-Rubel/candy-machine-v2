@@ -1,4 +1,6 @@
 <script lang="ts">
+  import Accordion from "./components/Accordion.svelte";
+
   import Feature from "./components/Feature.svelte";
   import Footer from "./components/Footer.svelte";
   import Header from "./components/Header.svelte";
@@ -12,7 +14,7 @@
 
 <div class="page-border min-h-screen">
   <div class="w-full bg-white h-full ">
-    <div class="max-w-[1100px] mx-auto">
+    <div class="max-w-[1100px] mx-auto w-[90%]">
       <Header />
 
       <main>
@@ -22,6 +24,7 @@
         <Talkers />
         <SomeGenerousPeeps />
         <Testimonial />
+        <Accordion />
         <Ticket />
       </main>
 

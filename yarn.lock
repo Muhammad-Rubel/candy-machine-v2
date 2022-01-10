@@ -1568,6 +1568,11 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
+svelte-accordion@^0.0.0-development:
+  version "0.0.0-development"
+  resolved "https://registry.yarnpkg.com/svelte-accordion/-/svelte-accordion-0.0.0-development.tgz#67790941e4ee55d7fb2e1f6d896a5b53facedaf0"
+  integrity sha512-G/I5WgeQJ6DaDLxlg+Ic0h23fHkx6AeKP8IVL+nrnjt28NKyhoOfKcHWZqDgDthB4a6T9m+9wkd6QXioyf9Z9Q==
+
 svelte-check@^2.2.7:
   version "2.2.11"
   resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.2.11.tgz#d436fd71dbc15876a1a5575a4924133620ac3f37"
