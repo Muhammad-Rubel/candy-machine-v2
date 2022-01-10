@@ -10,6 +10,10 @@
   color: #4e504d;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 main {
   text-align: center;
   padding: 1em;
@@ -46,3 +50,16 @@ main {
     transform: rotate(1800deg);
   }
 }
+
+.secondary-btn {
+  @apply py-3 px-8 font-bold border border-[#aaaca9] rounded-md hover:border-[#4e504d] transition duration-150 ease-in-out;
+}
+.primary-btn {
+  @apply py-3 px-8 font-bold border border-[#4c83ff] bg-[#4c83ff] text-white rounded-md hover:border-[#1960ff] hover:bg-[#1960ff] transition duration-150 ease-in-out;
+}
+/* 
+@media only screen and (min-width: 600px) {
+  body {
+    font-size: 19px;
+  }
+} */

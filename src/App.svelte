@@ -5,6 +5,8 @@
   import Nft from "./components/Nft.svelte";
   import SomeGenerousPeeps from "./components/SomeGenerousPeeps.svelte";
   import Talkers from "./components/Talkers.svelte";
+  import Testimonial from "./components/Testimonial.svelte";
+  import Ticket from "./components/Ticket.svelte";
 </script>
 
 <div class="page-border min-h-screen">
@@ -18,6 +20,8 @@
         <Feature />
         <Talkers />
         <SomeGenerousPeeps />
+        <Testimonial />
+        <Ticket />
       </main>
     </div>
   </div>
