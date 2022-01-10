@@ -1,5 +1,6 @@
 <script lang="ts">
   import Feature from "./components/Feature.svelte";
+  import Footer from "./components/Footer.svelte";
   import Header from "./components/Header.svelte";
   import Hero from "./components/Hero.svelte";
   import Nft from "./components/Nft.svelte";
@@ -23,6 +24,8 @@
         <Testimonial />
         <Ticket />
       </main>
+
+      <Footer />
     </div>
   </div>
 </div>

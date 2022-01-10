@@ -1,6 +1,6 @@
 <script lang="ts"></script>
 
-<header class="pt-12 pb-8">
+<header class="pt-12 pb-8 px-4">
   <h1 class="mb-8 flex justify-center">
     <img src="/logo.svg" alt="" />
   </h1>
